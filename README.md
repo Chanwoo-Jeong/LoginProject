@@ -2,10 +2,10 @@
 - 비록 디자인은 구리지만..! Authorization에 집중한 프로젝트
 - 다양한 로그인 을 구현해본 웹 (Mocking API & Axios)<br/>
 - Nav바를 통해 페이지 전환을 하는 웹 <br/>
-- Nav바 중 NeedLogin은 로그인이 되었을때만 접근가능한데 로직을 어떻게 설계해야할까? 에 대한 답
+- **Nav바 중 NeedLogin은 로그인이 되었을때만 접근가능한데 로직을 어떻게 설계해야할까?** 에 대한 답
 
 
-<h3> 배포링크 보러가기 🔍 https://chanwoo-jeong.github.io/wantedLogin</h3>
+<h3> 배포링크 보러가기 🔍 https://chanwoo-jeong.github.io/LoginProject/</h3>
 
 ## 📌 프로젝트 설명
 ### `진행 동기` 
